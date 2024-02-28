@@ -3,7 +3,7 @@ João Sousa
 
  `2231654`
 
- ### Linguagnes de programação conhecidas
+ ### Linguagens de programação conhecidas
 
  * C
  * Javascript
